@@ -3,4 +3,4 @@
             [incise.middlewares.core :refer [register]]
             [stefon.core :refer [asset-pipeline]]))
 
-(register 1000 asset-pipeline (conf/get :stefon))
+(register 300 asset-pipeline (conf/get :stefon))
