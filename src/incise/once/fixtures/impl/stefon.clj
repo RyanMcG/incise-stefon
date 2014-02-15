@@ -18,4 +18,4 @@
       (report "[stefon] Done.")
       (thunk))))
 
-(register stefon-fixture 400)
+(register stefon-fixture -200)
